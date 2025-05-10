@@ -1,0 +1,107 @@
+Chương Dương,CD
+Kha Vạn Cân,KVC
+Giao Chương Dương và Kha Vạn Cân,GCDKVC
+Giao Số 8 và Kha Vạn Cân,GS8KVC
+Võ Văn Ngân,VVN
+Giao Võ Văn Ngân và Chương Dương,GVVNCD
+Giao Kha Vạn Cân và Võ Văn Ngân,GKVCVVN
+Hoàng Diệu 2,HD2
+Lê Văn Chí,LVC
+Giao Hoàng Diệu 2 và Lê Văn Chí,GHD2LVC
+Giao Hoàng Diệu 2 và Kha Vạn Cân,GHD2KVC
+Xa Lộ Hà Nội,XLHN
+Giao Xa Lội Hà Nội và Võ Văn Ngân,GXLHNVVN
+Hutech,H
+Giao Hutech và Xa Lộ Hà Nội,GHXLHN
+Song Hành Xa Lộ Hà Nội,SHXLHN
+Giao Song Hành Xa Lộ Hà Nội và Hutech,GSHXLHNH
+Giao Song Hành Xa Lộ Hà Nội và D1,GSHXLHND1
+Giao Song Hành Xa Lộ Hà Nội và số 17,GSHXLHNS17
+Giao Xa Lộ Đại Hàn và số 17,GXLDHS17
+Giao Xa Lộ Đại Hàn và số 2,GXLDHS2
+Giao Lê Văn Chí và Quốc lộ 1K,GLVCQL1K
+Giao Đường 14 và Linh Trung,GD14LT
+Giao Linh Trung và Lê Văn Chí,GLTLVC
+Giao Đường 6 và Hoàng Diệu 2,GD6HD2
+Giao Song Hành và D1,GSHD1
+Giao Đường Vành Đai và Lê Văn Việt,GDVDLVV
+Giao Song Hành và Đường 400,GSHD400
+Giao Lê Văn Việt và Đường 385,GLVVD385
+Viện SPKT,VSPKT
+Cuối Đường Lê Văn Việt,CDLVV
+Giao Đường Hoàng Hữu Nam và Đường 400,GHHND400
+Giao Nguyễn Văn Bá và Đặng Văn Bi,GNVBDVB
+Nguyễn Kim,NK
+Quốc lộ 1K,QL1K
+Đường 14,D14
+Đường Linh Trung,LT
+Đường 6,DS6
+Đường D1,D1
+Đường Vành Đai,VD
+Đường Lê Văn Việt,LVV
+Đường 385,D385
+Đường Hoàng Hữu Nam,HHN
+Đường 400,D400
+Đường Nguyễn Văn Bá,NVB
+Đường Đặng Văn Bi,DVB
+Đường số 6,D6
+Bác Ái,BA
+Giao Lê Văn Chí và Song hành Xa Lộ Hà Nội,GSHXLHNLVC
+Giao Song Hành Xa Lộ Hà Nội và trục số 10,GSHXLHNS10
+Giao Alexandre de Rhodes và trục số 10,GALEXS10
+Giao Alexandre de Rhodes và đường vào đại học quốc gia,GALEXDH
+Giao đường vào đại học quốc gia và đường T2,GDHT2
+Giao đường T2 và đường Quảng Trường Sáng Tạo,GT2QTST
+Giao Quảng Trường Sáng Tạo và Đại Lộ Đại Học,GQTSTDLDH
+Đại học An Ninh Nhân Dân,ANND
+Giao Nguyễn Văn Bá và Đỗ Xuân Hợp,GNVBDXH
+Đỗ Xuân Hợp,DXH
+Trường Đại học Văn Hóa,HCMUC
+Giao Đỗ Xuân Hợp và Dương Đình Hội,GDXHDDH
+Dương Đình Hội,DDH
+Giao Dương Đình Hội và Đình Phong Phú,GDDHDPP
+Đình Phong Phú,DPP
+Giao Đình Phong Phú và Lê Văn Việt,GDPPLVV
+Giao Song Hành và Đại Lộ Đại Học,GSHDLDH
+Giao Song Hành và Overpass 01,GSHO1
+Đại Lộ Đại Học,DLDH
+Giao Đại Lộ Đại Học và Quảng Trường Sáng Tạo,GDLDHQTST
+Giao Quảng Trường Sáng Tạo và Tạ Quang Bửu,GQTSTTQB
+Tạ Quang Bửu,TQB
+Quảng Trường Sáng Tạo,QTST
+Ngã 4 tượng nhà bác học Lê Quý Đôn,N4LQ
+Thomas Edison,TE
+Giao Quảng Trường Sáng Tạo và Lê Quý Đôn,GQTSTLQD
+Lê Quý Đôn,LQD
+William Shakespeare,WS
+Giao Quảng Trường Sáng Tạo và William Shakespeare,GQTSTWS
+Giao Lê Quý Đôn và Nguyễn Du,GLQDND
+Giao William Shakespeare và Nguyễn Du,GWSND
+Nguyễn Du,ND
+Đại học Khoa học Sức khỏe TPHCM,KhoaY
+Viện Môi Trường và Tài Nguyên TPHCM,VMTTN
+Ký Túc Xá Khu B ĐHQG,KTXB
+Mạc Đĩnh Chi,MDC
+Giao Mạc Đĩnh Chi và Đường Số 2,GMDCD2
+Đường số 2,D2
+Hàn Thuyên,HT
+Giao D1 và 2B,GDD12B
+Giao 2B và Vành Đai,GD2BVD
+ĐH Sư phạm Kỹ thuật TP.HCM,HCMUTE
+ĐH Kinh tế - Luật,UEL
+ĐH Công nghệ Thông tin TP.HCM,UIT
+ĐH Khoa học Xã hội và Nhân văn TP.HCM,HCMUSSH
+ĐH Khoa học Tự nhiên TP.HCM,HCMUS
+ĐH An ninh Nhân dân,ANND
+ĐH Quốc tế,IU
+ĐH Nông Lâm TP.HCM,NLU
+ĐH FPT TP.HCM,FPT
+Viện Môi trường và Tài nguyên,VMTTN
+ĐH Ngân hàng TP.HCM,HUB
+ĐH Giao thông Vận tải TP.HCM,UTH
+ĐH Công nghệ TP.HCM,HUTECH
+ĐH Kiến trúc TP.HCM,UAH
+ĐH Văn hóa TP.HCM,HCMUC
+ĐH Bách Khoa TP.HCM,BKU
+END OF INPUT
+
