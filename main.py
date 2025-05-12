@@ -479,7 +479,7 @@ class App(tk.Tk):
             self.textketqua.insert(tk.END, "Không tìm thấy đường đi!\n", 'normal')
 
         # Hiển thị Sensorless
-        self.textketqua.insert(tk.END, "\nSensorless (Incremental Belief-State Search):\n", 'bold')
+        self.textketqua.insert(tk.END, "\nSensorless (Belief-State Search):\n", 'bold')
         if sensorless_path:
             self.textketqua.insert(tk.END,
                                    f"Đường đi cố định đến {abbreviations.get(end, end)} từ các điểm trong belief state:\n",
