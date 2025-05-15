@@ -37,20 +37,25 @@ Hệ thống hỗ trợ người dùng lựa chọn điểm đi, điểm đến 
 ### 🔹 Tab 1: UCS - Tìm đường ngắn nhất
 - **Chức năng**: Tìm đường tối ưu giữa **một điểm bắt đầu và một điểm kết thúc**.
 - **Cách dùng**: Chọn điểm xuất phát và điểm đến từ danh sách. Hệ thống sẽ hiển thị tuyến đường ngắn nhất dựa trên chi phí (thời gian/khoảng cách).
-
+![Mô phỏng tab 1](ngannhat.gif)
 ---
 
 ### 🔹 Tab 2: Genetic Algorithm - Đi qua nhiều trường
 - **Chức năng**: Giải bài toán qua nhiều trường (TSP).
 - **Cách dùng**: Chọn các điểm trung gian bạn muốn đi qua. Thuật toán sẽ tối ưu thứ tự di chuyển.
-
+![Mô phỏng tab 2](nhieutram.gif)
 ---
 
 ### 🔹 Tab 3: Các thuật toán khác - Mô phỏng đường đi
 - **Bao gồm**: BFS, DFS, A*, Backtracking, Q-Learning, Sensorless.
 - **Chức năng**: Mô phỏng đường đi theo các thuật toán khác nhau.
 - **Cách dùng**: Chọn thuật toán mong muốn, hệ thống sẽ sinh ngẫu nhiên tuyến đường theo logic của thuật toán đó.
-
+![Mô phỏng tab 3.1](BFS_Map.gif)
+![Mô phỏng tab 3.2](DFS_Map.gif)
+![Mô phỏng tab 3.3](sensorless_map.gif)
+![Mô phỏng tab 3.4](A_Map.gif)
+![Mô phỏng tab 3.5](Qlearning_map.gif)
+![Mô phỏng tab 3.6](backtracking_map.gif)
 ---
 
 ## 📌 Kết quả hiển thị
@@ -58,7 +63,8 @@ Hệ thống hỗ trợ người dùng lựa chọn điểm đi, điểm đến 
 - Đường đi trực quan trên bản đồ **khu vực Thủ Đức**.
 - Thông tin về **khoảng cách** và **thời gian di chuyển**.
 - So sánh hiệu quả giữa các thuật toán dựa trên kết quả đầu ra.
-
+![So sanh bang bang tab3](table.gif)
+![So sanh ket qua cot tab3](sanPham.gif)
 ---
 
 ## 🛠️ Công nghệ sử dụng
