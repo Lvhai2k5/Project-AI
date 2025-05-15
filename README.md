@@ -51,6 +51,7 @@ Hệ thống hỗ trợ người dùng lựa chọn điểm đi, điểm đến 
 - **Bao gồm**: BFS, DFS, A*, Backtracking, Q-Learning, Sensorless.
 - **Chức năng**: Mô phỏng đường đi theo các thuật toán khác nhau.
 - **Cách dùng**: Chọn thuật toán mong muốn, hệ thống sẽ sinh ngẫu nhiên tuyến đường theo logic của thuật toán đó.
+
 ![Mô phỏng tab 3.1](BFS_Map.gif)
 ![Mô phỏng tab 3.2](DFS_Map.gif)
 ![Mô phỏng tab 3.3](sensorless_map.gif)
