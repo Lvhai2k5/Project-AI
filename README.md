@@ -37,6 +37,7 @@ Hệ thống hỗ trợ người dùng lựa chọn điểm đi, điểm đến 
 ### 🔹 Tab 1: UCS - Tìm đường ngắn nhất
 - **Chức năng**: Tìm đường tối ưu giữa **một điểm bắt đầu và một điểm kết thúc**.
 - **Cách dùng**: Chọn điểm xuất phát và điểm đến từ danh sách. Hệ thống sẽ hiển thị tuyến đường ngắn nhất dựa trên chi phí (thời gian/khoảng cách).
+- 
 ![Mô phỏng tab 1](ngannhat.gif)
 ---
 
@@ -63,7 +64,7 @@ Hệ thống hỗ trợ người dùng lựa chọn điểm đi, điểm đến 
 - Đường đi trực quan trên bản đồ **khu vực Thủ Đức**.
 - Thông tin về **khoảng cách** và **thời gian di chuyển**.
 - So sánh hiệu quả giữa các thuật toán dựa trên kết quả đầu ra.
-![So sanh bang bang tab3](table.gif)
+![So sanh bang bang tab3](table.png)
 ![So sanh ket qua cot tab3](sanPham.gif)
 ---
 
